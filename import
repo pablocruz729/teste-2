@@ -1,0 +1,11 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+a = np.linspace(0,5,100)
+
+def function(x):
+    return x**2
+print(a)
+
+plt.plot(a,function(a))
+plt.show()
