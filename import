@@ -11,6 +11,9 @@ b = 2+2
 print(b)
 print("oi")
 
+c = 2
+print(c)
+
 plt.plot(a,function(a))
 plt.show()
 
