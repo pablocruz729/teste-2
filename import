@@ -7,7 +7,10 @@ def function(x):
     return x**2
 print(a)
 
+b = 2+2
+print(b)
+print("oi")
+
 plt.plot(a,function(a))
 plt.show()
 
-testando
