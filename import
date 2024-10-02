@@ -9,3 +9,5 @@ print(a)
 
 plt.plot(a,function(a))
 plt.show()
+
+testando
