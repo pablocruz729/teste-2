@@ -13,13 +13,12 @@ print("oi")
 
 c = 2
 print(c)
-<<<<<<< HEAD
 
-print(c+b)
-
-=======
+print(c)
+p = 90*5
+print(p)
 print("pull")
->>>>>>> 1f83fe1315fe5ab58836ece125b341de11774927
+
 plt.plot(a,function(a))
 plt.show()
 
